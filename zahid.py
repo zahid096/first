@@ -1,0 +1,1 @@
+print("Moinul is a Bad Man")
